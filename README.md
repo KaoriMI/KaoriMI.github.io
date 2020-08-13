@@ -1,5 +1,5 @@
 # Welcome to GitHub Pages 
 
-You can use the [editor on GitHub].
+This is my GitHub Pages.
 
 
